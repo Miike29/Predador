@@ -1,0 +1,8 @@
+function solucao(olhosNasLaterais) {
+if (olhosNasLaterais === TRUE){
+
+return "PRESA"
+}else {
+ return "PREDADOR"
+}
+}
